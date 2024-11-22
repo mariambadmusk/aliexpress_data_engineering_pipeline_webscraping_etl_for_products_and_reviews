@@ -1,0 +1,881 @@
+{
+    "data": {
+        "currentPage": 3,
+        "evaViewList": [
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "NZ",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerFeedback": "Looks awesome feels good 👍.",
+                "buyerName": "G***y",
+                "buyerProductFeedBack": "",
+                "buyerTranslationFeedback": "Looks awesome feels good 👍.",
+                "downVoteCount": 0,
+                "evalDate": "03 Jul 2024",
+                "evaluationId": 60083463532630638,
+                "evaluationIdStr": "60083463532630638",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Fits ok ",
+                "reviewLabelValue3": "High",
+                "selectedReview": false,
+                "skuInfo": "Color:9 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "NZ",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerFeedback": "Looks good very nice.",
+                "buyerName": "G***y",
+                "buyerProductFeedBack": "",
+                "buyerTranslationFeedback": "Looks good very nice.",
+                "downVoteCount": 0,
+                "evalDate": "03 Jul 2024",
+                "evaluationId": 60083463532530638,
+                "evaluationIdStr": "60083463532530638",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Fits ok ",
+                "reviewLabelValue3": "High",
+                "selectedReview": false,
+                "skuInfo": "Color:10 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "IT",
+                "buyerEval": 40,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerFeedback": "Felpa carina però troppo piccola. Consegna veloce ",
+                "buyerName": "e***r",
+                "buyerProductFeedBack": "",
+                "buyerTranslationFeedback": "Cute sweatshirt though too small. Fast delivery",
+                "downVoteCount": 0,
+                "evalDate": "04 Nov 2024",
+                "evaluationId": 30080730827669969,
+                "evaluationIdStr": "30080730827669969",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Poor",
+                "reviewLabelValue2": "Small",
+                "reviewLabelValue3": "Medium",
+                "selectedReview": false,
+                "skuInfo": "Color:12 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "ES",
+                "buyerEval": 40,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerFeedback": "tela gorda y brillantr",
+                "buyerGender": "F",
+                "buyerHeadPortrait": "https://gw.alicdn.com/tps/TB1zA01LXXXXXc0XFXXXXXXXXXX-240-240.png",
+                "buyerName": "m***a",
+                "buyerProductFeedBack": "",
+                "buyerTranslationFeedback": "Fat fabric and brilantr",
+                "downVoteCount": 0,
+                "evalDate": "11 Sep 2024",
+                "evaluationId": 30078284339474976,
+                "evaluationIdStr": "30078284339474976",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabelValue1": "Poor",
+                "reviewLabelValue2": "Fits ok ",
+                "selectedReview": false,
+                "skuInfo": "Color:7 Size:M ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "UK",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerName": "N***s",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "23 Oct 2024",
+                "evaluationId": 30080065990459395,
+                "evaluationIdStr": "30080065990459395",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "selectedReview": false,
+                "skuInfo": "Color:4 Size:M ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": true,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "SA",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerName": "AliExpress Shopper",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "05 Nov 2024",
+                "evaluationId": 50152539300211876,
+                "evaluationIdStr": "50152539300211876",
+                "logistics": "Aliexpress Selection Standard",
+                "selectedReview": false,
+                "skuInfo": "Color:2 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": true,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "SA",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerName": "AliExpress Shopper",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "26 Oct 2024",
+                "evaluationId": 50150489529511876,
+                "evaluationIdStr": "50150489529511876",
+                "logistics": "Aliexpress Selection Standard",
+                "selectedReview": false,
+                "skuInfo": "Color:2 Size:XL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "IT",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A8571b223d42f4f529049df49e94118f8b.jpg_220x220.jpg",
+                "buyerName": "M***i",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "28 Oct 2024",
+                "evaluationId": 30080414477859578,
+                "evaluationIdStr": "30080414477859578",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Fits ok ",
+                "reviewLabelValue3": "High",
+                "selectedReview": false,
+                "skuInfo": "Color:12 Size:L ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "UK",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A1526a59e8967430a8aaf48b1e0b1e946q.jpg_220x220.jpg",
+                "buyerName": "U***r",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "17 Jul 2024",
+                "evaluationId": 30075726836767361,
+                "evaluationIdStr": "30075726836767361",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Fits ok ",
+                "reviewLabelValue3": "High",
+                "selectedReview": false,
+                "skuInfo": "Color:10 Size:XXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": true,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "MX",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerName": "AliExpress Shopper",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "01 Jun 2024",
+                "evaluationId": 60082528215538136,
+                "evaluationIdStr": "60082528215538136",
+                "logistics": "Aliexpress Selection Standard",
+                "selectedReview": false,
+                "skuInfo": "Color:5 Size:L ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "IL",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerGender": "F",
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A46edaa51284d46afb57d9e8b3454dd9d6.jpg_220x220.jpg",
+                "buyerName": "ש***ל",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "01 Oct 2024",
+                "evaluationId": 50147289909778501,
+                "evaluationIdStr": "50147289909778501",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Fits ok ",
+                "selectedReview": false,
+                "skuInfo": "Color:12 Size:M ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "IL",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerName": "l***a",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "06 Oct 2024",
+                "evaluationId": 50148159420581739,
+                "evaluationIdStr": "50148159420581739",
+                "logistics": "Aliexpress Selection Standard",
+                "selectedReview": false,
+                "skuInfo": "Color:2 Size:M ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "BR",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerGender": "M",
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/U71b2ce59786a4caa9b07bb2f4fd7aec1v.jpg_220x220.jpg",
+                "buyerName": "o***a",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "04 Jul 2024",
+                "evaluationId": 60083480728287127,
+                "evaluationIdStr": "60083480728287127",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Not bad ",
+                "reviewLabelValue2": "Small",
+                "reviewLabelValue3": "Medium",
+                "selectedReview": false,
+                "skuInfo": "Color:12 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "BE",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/U3817b904ef93416a80ae2c65bab49aa5b.jpg_220x220.jpg",
+                "buyerName": "S***b",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "07 Jul 2024",
+                "evaluationId": 30075167181218289,
+                "evaluationIdStr": "30075167181218289",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "selectedReview": false,
+                "skuInfo": "Color:5 Size:XXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "ES",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A8be8497839224e8da1083936e7c64d5bf.jpg_220x220.jpg",
+                "buyerName": "A***e",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "04 Jun 2024",
+                "evaluationId": 30074133325716237,
+                "evaluationIdStr": "30074133325716237",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "selectedReview": false,
+                "skuInfo": "Color:4 Size:L ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "DE",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A9f1b86a693134ebfa09c65a0ad81b497G.jpg_220x220.jpg",
+                "buyerName": "K***r",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "04 Oct 2024",
+                "evaluationId": 30079279946835747,
+                "evaluationIdStr": "30079279946835747",
+                "logistics": "Aliexpress Selection Standard",
+                "selectedReview": false,
+                "skuInfo": "Color:6 Size:S ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "ES",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A8be8497839224e8da1083936e7c64d5bf.jpg_220x220.jpg",
+                "buyerName": "A***e",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "04 Jun 2024",
+                "evaluationId": 30074133325816237,
+                "evaluationIdStr": "30074133325816237",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "selectedReview": false,
+                "skuInfo": "Color:6 Size:L ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "CL",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/Aaea236a0039a4a7a9863bcb61c9aa4bb3.jpg_220x220.jpg",
+                "buyerName": "A***n",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "13 Jul 2024",
+                "evaluationId": 60083529762325577,
+                "evaluationIdStr": "60083529762325577",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabelValue1": "Not bad ",
+                "selectedReview": false,
+                "skuInfo": "Color:9 Size:XXXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "UK",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/A4e12f98d427146c5b34bcbb5f5b93329l.jpg_220x220.jpg",
+                "buyerName": "N***z",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "26 Jun 2024",
+                "evaluationId": 30074659184295496,
+                "evaluationIdStr": "30074659184295496",
+                "logistics": "Aliexpress Selection Premium shipping",
+                "reviewLabel1": "Quality",
+                "reviewLabel2": "Fit",
+                "reviewLabel3": "Value for money",
+                "reviewLabelValue1": "Great",
+                "reviewLabelValue2": "Large",
+                "reviewLabelValue3": "High",
+                "selectedReview": false,
+                "skuInfo": "Color:2 Size:XXL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            },
+            {
+                "aigc": false,
+                "anonymous": false,
+                "buyerAddFbDays": 0,
+                "buyerCountry": "CL",
+                "buyerEval": 100,
+                "buyerFbType": {
+                    "crowdSourcingPersonName": "AliExpress Shopper",
+                    "sourceLang": "en",
+                    "typeTranslationAccepted": "crowdsourcing"
+                },
+                "buyerGender": "M",
+                "buyerHeadPortrait": "https://ae01.alicdn.com/kf/U9b4a458b838d4ccb8cea14f26b9a31f5T.jpg_220x220.jpg",
+                "buyerName": "J***o",
+                "buyerProductFeedBack": "",
+                "downVoteCount": 0,
+                "evalDate": "13 Jun 2024",
+                "evaluationId": 60082828693144043,
+                "evaluationIdStr": "60082828693144043",
+                "logistics": "Aliexpress Selection Standard",
+                "reviewLabel1": "Quality",
+                "reviewLabelValue1": "Great",
+                "selectedReview": false,
+                "skuInfo": "Color:2 Size:XL ",
+                "status": "1",
+                "trendyol": false,
+                "upVoteCount": 0
+            }
+        ],
+        "filterInfo": {
+            "currentFilter": "all",
+            "filterStatistic": [
+                {
+                    "filterCode": "additional",
+                    "filterCount": 1
+                },
+                {
+                    "filterCode": "local",
+                    "filterCount": 12
+                },
+                {
+                    "filterCode": "with_personal",
+                    "filterCount": 0
+                },
+                {
+                    "filterCode": "image",
+                    "filterCount": 7
+                },
+                {
+                    "filterCode": "all",
+                    "filterCount": 71
+                }
+            ]
+        },
+        "impressionDTOList": [
+            {
+                "content": "very good",
+                "emotion": 1,
+                "id": "6560640819015241998",
+                "num": 5,
+                "productId": 1005006584932979,
+                "type": "impression"
+            },
+            {
+                "content": "good quality",
+                "emotion": 1,
+                "id": "7282931118968593717",
+                "num": 3,
+                "productId": 1005006584932979,
+                "type": "impression"
+            },
+            {
+                "content": "very nice",
+                "emotion": 1,
+                "id": "7976860441151280122",
+                "num": 2,
+                "productId": 1005006584932979,
+                "type": "impression"
+            },
+            {
+                "content": "looks great",
+                "emotion": 1,
+                "id": "5106042306598797123",
+                "num": 2,
+                "productId": 1005006584932979,
+                "type": "impression"
+            },
+            {
+                "content": "Arrived quickly",
+                "emotion": 1,
+                "id": "7557103565403495942",
+                "num": 1,
+                "productId": 1005006584932979,
+                "type": "impression"
+            },
+            {
+                "content": "great delivery",
+                "emotion": 1,
+                "id": "7690563706903034335",
+                "num": 1,
+                "productId": 1005006584932979,
+                "type": "impression"
+            }
+        ],
+        "pageSize": 20,
+        "productEvaluationStatistic": {
+            "evarageStar": 4.3,
+            "evarageStarRage": 85.7,
+            "fiveStarNum": 49,
+            "fiveStarRate": 69.0,
+            "fourStarNum": 3,
+            "fourStarRate": 4.2,
+            "negativeNum": 11,
+            "negativeRate": 15.5,
+            "neutralNum": 8,
+            "neutralRate": 11.3,
+            "oneStarNum": 4,
+            "oneStarRate": 5.6,
+            "positiveNum": 52,
+            "positiveRate": 73.2,
+            "threeStarNum": 8,
+            "threeStarRate": 11.3,
+            "totalNum": 71,
+            "twoStarNum": 7,
+            "twoStarRate": 9.9
+        },
+        "productType": "ORDINARY",
+        "reviewStructuredLabelDTOList": [
+            {
+                "categoryReviewLabelDTOList": [
+                    {
+                        "categoryId": 200000344,
+                        "labelId": 1500114037,
+                        "labelName": "Fit",
+                        "labelValueOptions": [
+                            {
+                                "countPercentage": "15%",
+                                "displayOption": 1,
+                                "labelValueId": 1200114107,
+                                "labelValueName": "Small",
+                                "score": -1
+                            },
+                            {
+                                "countPercentage": "81%",
+                                "displayOption": 2,
+                                "labelValueId": 600638176,
+                                "labelValueName": "Fits ok ",
+                                "score": 1
+                            },
+                            {
+                                "countPercentage": "4%",
+                                "displayOption": 3,
+                                "labelValueId": 600238153,
+                                "labelValueName": "Large",
+                                "score": -1
+                            }
+                        ]
+                    }
+                ],
+                "count": 43,
+                "labelId": 1500114037,
+                "processBar": 1.88679245283019,
+                "translateContent": "Fit : Fits ok ",
+                "valueId": 600638176
+            },
+            {
+                "categoryReviewLabelDTOList": [
+                    {
+                        "categoryId": 200000344,
+                        "labelId": 1900638107,
+                        "labelName": "Quality",
+                        "labelValueOptions": [
+                            {
+                                "countPercentage": "19%",
+                                "displayOption": 1,
+                                "labelValueId": 601238180,
+                                "labelValueName": "Poor",
+                                "score": -1
+                            },
+                            {
+                                "countPercentage": "32%",
+                                "displayOption": 2,
+                                "labelValueId": 600538174,
+                                "labelValueName": "Not bad ",
+                                "score": 0
+                            },
+                            {
+                                "countPercentage": "49%",
+                                "displayOption": 3,
+                                "labelValueId": 601938207,
+                                "labelValueName": "Great",
+                                "score": 1
+                            }
+                        ]
+                    }
+                ],
+                "count": 31,
+                "labelId": 1900638107,
+                "processBar": 2.3015873015873,
+                "translateContent": "Quality : Great",
+                "valueId": 601938207
+            },
+            {
+                "categoryReviewLabelDTOList": [
+                    {
+                        "categoryId": 200000344,
+                        "labelId": 1900838111,
+                        "labelName": "Value for money",
+                        "labelValueOptions": [
+                            {
+                                "countPercentage": "6%",
+                                "displayOption": 1,
+                                "labelValueId": 600338174,
+                                "labelValueName": "Poor ",
+                                "score": -1
+                            },
+                            {
+                                "countPercentage": "28%",
+                                "displayOption": 2,
+                                "labelValueId": 600838178,
+                                "labelValueName": "Medium",
+                                "score": 0
+                            },
+                            {
+                                "countPercentage": "29%",
+                                "displayOption": 3,
+                                "labelValueId": 602038255,
+                                "labelValueName": "High",
+                                "score": 1
+                            }
+                        ]
+                    }
+                ],
+                "count": 23,
+                "labelId": 1900838111,
+                "processBar": 2.0,
+                "translateContent": "Value for money : High",
+                "valueId": 602038255
+            }
+        ],
+        "totalNum": 71,
+        "totalPage": 4,
+        "version": "0.0.0"
+    },
+    "helpful": {
+        "50150489529511876": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30080414477859578": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30074133325816237": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30078284339474976": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30075726836767361": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60083463532530638": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60082828693144043": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "50152539300211876": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30079279946835747": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60082528215538136": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60083529762325577": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30075167181218289": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "50148159420581739": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60083463532630638": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30080065990459395": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30074659184295496": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30074133325716237": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "60083480728287127": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "50147289909778501": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        },
+        "30080730827669969": {
+            "showButton": "yes",
+            "useful": 0,
+            "useless": 0
+        }
+    }
+}
