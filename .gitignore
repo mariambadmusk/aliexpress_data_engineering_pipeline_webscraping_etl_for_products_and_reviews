@@ -1,0 +1,6 @@
+.env
+venv
+.vscode
+response.json
+response2.json
+sample.py
