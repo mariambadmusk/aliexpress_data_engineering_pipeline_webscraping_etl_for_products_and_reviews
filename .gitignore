@@ -3,4 +3,7 @@ venv
 .vscode
 response.json
 response2.json
-sample.py
+responsejsn.csv
+sample.ipynb
+logs.log
+sample.json
